@@ -1,4 +1,4 @@
-# 데이터분석가 공아영(Gong Ayoung)
+# 공아영(Gong Ayoung)
 > 
 
 ## Contact
